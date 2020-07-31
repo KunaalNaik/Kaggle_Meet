@@ -1,3 +1,5 @@
+## Meet Data/Time - Saturday 10am (Twice a Week)
+
 # Kaggle Meet Objective
 
 The Youtube videos and other sources generally don’t show the reality of complex data and challenges and performance measure ( Leaderboard ) and cause of that very reason Kaggle shines bright.
