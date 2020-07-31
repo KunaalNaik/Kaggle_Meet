@@ -28,3 +28,6 @@ And give a final submission within 5 Days. To motivate the winning team, they wi
 next competition and that should also be approved by more than 50% of group members to 	finalize.
 
 [A list of some Competitions](https://github.com/KunaalNaik/Kaggle_Mastery/blob/master/Kaggle_Competitions.md)
+
+
+[Join Us by creaing your profile and adding your Kernel Links](https://github.com/KunaalNaik/Kaggle_Meet/tree/master/Members)
