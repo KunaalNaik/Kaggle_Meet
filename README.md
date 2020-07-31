@@ -27,4 +27,4 @@ and after deciding the winner group we will share insights to cometition by all 
 And give a final submission within 5 Days. To motivate the winning team, they will decide
 next competition and that should also be approved by more than 50% of group members to 	finalize.
 
-[A list of some Competitions](https://github.com/KunaalNaik/Kaggle_Mastery/blob/master/Kaggle_Competitions.md)
+[A list of some Competitions](https://github.com/KunaalNaik/Kaggle_Meet/blob/master/Kaggle_Competitions.md)
