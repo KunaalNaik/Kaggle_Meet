@@ -1,4 +1,4 @@
-## Meet Data/Time - Saturday 10am (Twice a Week)
+## Meet Data/Time - Saturday 10am (Once in 2 Weeks)
 
 # Kaggle Meet Objective
 
