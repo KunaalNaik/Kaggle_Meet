@@ -43,6 +43,7 @@ A group of competitions that help you improve your regression problem statements
 
 ## 3/ Time Series
 A group of competitions that help you improve your time series forecasting problem statements
+- [Daily Sun Spot Data](https://www.kaggle.com/abhinand05/daily-sun-spot-data-1818-to-2019)
 
 ### Getting Started
 - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-saless)
